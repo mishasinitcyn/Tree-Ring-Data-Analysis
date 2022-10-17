@@ -1,0 +1,366 @@
+# This file contains the parameters of the HMM
+# Transition probability:
+# First entry probabilities:
+	0.000000000000e+00	0.000000000000e+00	1.000000000000e+00	3.463350090957e-217	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	1.375416520440e-28	9.127980079478e-81
+# Conditional probabilities:
+	0.000000000000e+00	6.073971101874e-282	1.000000000000e+00	3.406180846380e-189	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	3.046283411660e-19	0.000000000000e+00
+	2.476276696533e-80	0.000000000000e+00	1.000000000000e+00	0.000000000000e+00	1.522729550066e-82	2.905598503260e-70	1.489884411609e-77	1.098508276823e-100	3.534616340776e-20	1.894050096775e-40
+	6.297076542243e-05	7.258995771016e-207	9.864865468242e-01	3.957646827809e-156	4.437611217129e-24	2.875140303651e-09	2.009315322416e-17	6.693726075082e-03	2.561979163964e-20	6.756753460131e-03
+	1.311142471585e-45	0.000000000000e+00	1.000000000000e+00	0.000000000000e+00	8.886913265350e-50	1.225529218630e-34	2.509682848028e-42	3.538000817525e-50	4.714484946954e-19	2.616917472277e-23
+	0.000000000000e+00	5.327346382239e-307	1.000000000000e+00	6.557279032590e-202	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	1.820449480259e-20	0.000000000000e+00
+	0.000000000000e+00	2.458023173311e-308	1.000000000000e+00	2.157954617442e-204	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	1.896895842501e-20	0.000000000000e+00
+	0.000000000000e+00	6.358090303643e-308	1.000000000000e+00	3.338247416822e-202	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	3.244595584999e-20	0.000000000000e+00
+	0.000000000000e+00	2.764695233888e-312	1.000000000000e+00	2.392785338268e-205	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	2.053055528620e-19	0.000000000000e+00
+	2.680998934837e-07	2.378931722221e-203	9.942259398916e-01	1.216558701579e-153	3.679069306453e-20	1.785701090323e-05	1.153452671847e-13	6.525892231051e-05	1.719812987665e-17	5.690676075158e-03
+	2.203120813921e-24	5.714086539873e-199	2.763181618743e-11	6.302204168052e-150	2.337084015399e-15	9.999999968415e-01	3.130862885629e-09	4.557073186902e-37	4.762824236051e-21	0.000000000000e+00
+
+# Parameters for the emission distributions for different possible hidden states:
+# Variable #1:
+# State #1:
+# 3-component mixture
+# Mixing probabilities:
+	1.039536281749e-02	1.690512853085e-01	8.205533518740e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500223912004e+04	1.250111956002e+04
+# Mixture component 3:
+# Gamma distribution:
+2.500244080807e+04	1.250122040404e+04
+# 3-component mixture
+# Mixing probabilities:
+	1.039536281749e-02	1.039536281749e-02	9.792092743650e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+5.776043042356e-01	4.522283575661e-02
+# Mixture component 3:
+# Gamma distribution:
+2.500120420914e+04	1.317239420924e+01
+# 3-component mixture
+# Mixing probabilities:
+	1.039536281749e-02	9.792092743650e-01	1.039536281749e-02
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500151906519e+04	6.684898145772e+01
+# Mixture component 3:
+# Gamma distribution:
+7.365681521369e-01	1.924974835384e-01
+# State #2:
+# 3-component mixture
+# Mixing probabilities:
+	3.333333333333e-01	3.333333333333e-01	3.333333333333e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+1.160663378164e-01	2.253092330241e-02
+# Mixture component 3:
+# Gamma distribution:
+1.363942465536e-01	1.739444550548e-02
+# 3-component mixture
+# Mixing probabilities:
+	3.333333333333e-01	3.333333333333e-01	3.333333333333e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+1.371328087459e-01	3.737049241303e-02
+# Mixture component 3:
+# Gamma distribution:
+1.732542567643e-01	1.322057222641e-01
+# 3-component mixture
+# Mixing probabilities:
+	3.333333333333e-01	3.333333333333e-01	3.333333333333e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+1.607494678613e-01	5.903360004395e-02
+# Mixture component 3:
+# Gamma distribution:
+2.957159200699e-01	1.163563248131e-01
+# State #3:
+# 3-component mixture
+# Mixing probabilities:
+	6.711395467314e-07	2.682527355890e-01	7.317465932714e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+5.087217158467e+00	2.677358637262e+00
+# Mixture component 3:
+# Gamma distribution:
+5.464828901664e+00	2.683274440988e+00
+# 3-component mixture
+# Mixing probabilities:
+	6.711395467314e-07	9.999986577209e-01	6.711395467314e-07
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+7.535302934508e+03	4.011419218624e+00
+# Mixture component 3:
+# Gamma distribution:
+1.568895385745e-01	1.487901456662e-01
+# 3-component mixture
+# Mixing probabilities:
+	6.711395467314e-07	6.711397405952e-07	9.999986577207e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500345838825e+04	1.256455195390e+02
+# Mixture component 3:
+# Gamma distribution:
+7.375738344210e+00	3.163320725257e-03
+# State #4:
+# 3-component mixture
+# Mixing probabilities:
+	3.333333333333e-01	3.333333333333e-01	3.333333333333e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+9.903661990590e-01	1.911046439463e-02
+# Mixture component 3:
+# Gamma distribution:
+1.941360019270e-01	1.446900057059e-02
+# 3-component mixture
+# Mixing probabilities:
+	3.333333333333e-01	3.333333333333e-01	3.333333333333e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+1.228686975438e-01	2.758420321881e-02
+# Mixture component 3:
+# Gamma distribution:
+1.026488606958e-01	5.236810279751e-02
+# 3-component mixture
+# Mixing probabilities:
+	3.333333333333e-01	3.333333333333e-01	3.333333333333e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+1.062511448080e-01	3.106169876220e-02
+# Mixture component 3:
+# Gamma distribution:
+2.360218976577e-01	9.059474874867e-02
+# State #5:
+# 3-component mixture
+# Mixing probabilities:
+	3.333333333307e-01	3.333333333346e-01	3.333333333346e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500131037132e+04	1.250065518566e+04
+# Mixture component 3:
+# Gamma distribution:
+2.500119961349e+04	1.250059980674e+04
+# 3-component mixture
+# Mixing probabilities:
+	3.333333333307e-01	3.333333333385e-01	3.333333333307e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.499597482201e+04	1.317649194902e+01
+# Mixture component 3:
+# Gamma distribution:
+1.050856977936e-01	1.017605415991e-01
+# 3-component mixture
+# Mixing probabilities:
+	3.333333333307e-01	3.333333333307e-01	3.333333333385e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+3.570328102710e-01	8.947311487122e-02
+# Mixture component 3:
+# Gamma distribution:
+1.474974062589e+02	7.328975306308e-01
+# State #6:
+# 3-component mixture
+# Mixing probabilities:
+	9.997000931392e-05	8.739193864607e-01	1.259806435300e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500341878141e+04	1.250170939070e+04
+# Mixture component 3:
+# Gamma distribution:
+2.500308421625e+04	1.250154210812e+04
+# 3-component mixture
+# Mixing probabilities:
+	9.997000931392e-05	9.592240352471e-01	4.067599474361e-02
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500362675386e+04	1.318061505211e+01
+# Mixture component 3:
+# Gamma distribution:
+2.500349687207e+04	1.318054658517e+01
+# 3-component mixture
+# Mixing probabilities:
+	9.997000931392e-05	1.786371996086e-01	8.212628303821e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500246301892e+04	1.256405176830e+02
+# Mixture component 3:
+# Gamma distribution:
+2.500257169312e+04	1.256410637845e+02
+# State #7:
+# 3-component mixture
+# Mixing probabilities:
+	3.333298546313e-01	3.333350726684e-01	3.333350727003e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500308151247e+04	1.250154075624e+04
+# Mixture component 3:
+# Gamma distribution:
+2.500338720243e+04	1.250169360121e+04
+# 3-component mixture
+# Mixing probabilities:
+	3.333298546313e-01	3.333350726787e-01	3.333350726900e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500317766359e+04	1.318037831502e+01
+# Mixture component 3:
+# Gamma distribution:
+2.500328532497e+04	1.318043506852e+01
+# 3-component mixture
+# Mixing probabilities:
+	3.333298546313e-01	3.333298546313e-01	3.333402907375e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+1.178446652976e-01	2.286647650531e-01
+# Mixture component 3:
+# Gamma distribution:
+2.500234245678e+04	1.256399118431e+02
+# State #8:
+# 3-component mixture
+# Mixing probabilities:
+	1.009110735182e-04	9.638467881789e-01	3.605230074757e-02
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500336871665e+04	1.250168435833e+04
+# Mixture component 3:
+# Gamma distribution:
+2.500353476268e+04	1.250176738134e+04
+# 3-component mixture
+# Mixing probabilities:
+	1.009110735182e-04	1.009110735182e-04	9.997981778530e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.515600585413e-01	9.635336466779e-02
+# Mixture component 3:
+# Gamma distribution:
+2.500161749970e+04	1.317261195980e+01
+# 3-component mixture
+# Mixing probabilities:
+	1.009110735182e-04	1.009110735182e-04	9.997981778530e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+1.165313358255e-01	3.018637351650e-01
+# Mixture component 3:
+# Gamma distribution:
+2.500112105558e+04	6.684791726091e+01
+# State #9:
+# 3-component mixture
+# Mixing probabilities:
+	3.333333333333e-01	3.333333333333e-01	3.333333333333e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+1.401467262061e+01	7.566681824060e+00
+# Mixture component 3:
+# Gamma distribution:
+1.362297292257e+01	7.389067131121e+00
+# 3-component mixture
+# Mixing probabilities:
+	3.333333333333e-01	3.333333333333e-01	3.333333333333e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.179458803989e+04	1.148629031927e+01
+# Mixture component 3:
+# Gamma distribution:
+4.344958767225e-01	4.691261100590e-02
+# 3-component mixture
+# Mixing probabilities:
+	3.333333333333e-01	3.333333333333e-01	3.333333333333e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.638412235894e+00	5.337106874303e-03
+# Mixture component 3:
+# Gamma distribution:
+1.403875933087e-01	3.904811103054e-02
+# State #10:
+# 3-component mixture
+# Mixing probabilities:
+	9.997005152484e-05	7.848946186942e-01	2.150054112542e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500061068713e+04	2.500061068713e+04
+# Mixture component 3:
+# Gamma distribution:
+2.500012710639e+04	2.500012710639e+04
+# 3-component mixture
+# Mixing probabilities:
+	9.997005152484e-05	1.602167664142e-02	9.838783533071e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500058202386e+04	1.317901002839e+01
+# Mixture component 3:
+# Gamma distribution:
+2.500035655730e+04	1.317889117411e+01
+# 3-component mixture
+# Mixing probabilities:
+	9.997005152484e-05	9.997005152484e-05	9.998000598970e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Gamma distribution:
+2.500238225148e+04	1.256401118165e+02
+# Mixture component 3:
+# Gamma distribution:
+2.500038470819e+04	2.831300646455e+01
+
+
+# Log-likelihood of the data set: -2.035509947905e+03
+# Log-posterior of the data set: -2.014729445328e+03
+# Per-dimension log-posterior of the data set: -4.418266327475e+00
+# Number of free (real-valued) parameters: 279
+# Bayes Information Criterion score: 5.472682561125e+03
+# Failure rate: 9 out of 10.
